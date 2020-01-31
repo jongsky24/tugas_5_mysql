@@ -1,0 +1,7 @@
+1. Character set adalah sekumpulan karakter yang biasanya berupa angka, huruf dan berbagai karakter lain yang terstandarisasi, yang masing-masing memiliki ID unik yang disebut code point. Karakter yang ditampung pada suatu character set tergantung pada jenis character set itu sendiri.
+2. Basis Data
+3. show character set;
+4. show collation;
+5. int, float, double, decimal, bigint
+6. char, varchar, text, blob, longblob
+7. date, timestamp, time
